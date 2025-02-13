@@ -9,8 +9,8 @@ Key Analysis Steps:
 - Categorized numerical values into meaningful bins for deeper analysis.
 
 Tools Used:
-Microsoft Excel (Data Analysis, PivotTables, Descriptive Statistics)
-Conditional Formatting for missing data
-Scatter Plots & Histograms for visualization
+- Microsoft Excel (Data Analysis, PivotTables, Descriptive Statistics)
+- Conditional Formatting for missing data
+- Scatter Plots & Histograms for visualization
 
 ![image](https://github.com/user-attachments/assets/910dcb3a-f409-4e49-a3d5-00cb3189e2be) 
